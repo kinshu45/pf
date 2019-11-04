@@ -1,0 +1,120 @@
+.top-container{
+  background-color: #e4f9f5;
+  position:relative;
+  padding-top: 100px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family:  cursive;
+  background-color: #e4f9f5;
+
+}
+p{
+  color: #40514e;
+}
+.bottom-container
+{
+  background-color: #40514e;
+}
+
+a
+{
+  color:#11999e;
+}
+#image1
+{
+  height: 250px;
+  width: 250px;
+}
+#icon1
+{
+  height: 40px;
+  width: 40px;
+  padding-right: 10px;
+}
+.icons
+{
+  height: 40px;
+  width: 40px;
+}
+#top-text
+{
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #11999e;
+  font-weight: normal;
+}
+#mountain
+{
+  height: 600px;
+  width: 1000px;
+
+}
+.images
+{
+  height: 270px;
+  width: 270px;
+}
+h1
+{
+margin-top: 50px;
+color: #11999e;
+margin-bottom: 0;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+line-height: 2;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #11999e;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+ font-size: 1.5rem;
+ color: #11999e;
+}
+.merge-hr
+{
+  margin: 0;
+  border: 0;
+}
+.toppest-cloud
+{
+  position: absolute;
+  left: 250px;
+  top: 50px;
+  height: 60px;
+  width: 130px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 220px;
+  top: 175px;
+  height: 60px;
+  width: 130px;
+
+}
+#copyright
+{
+  color: white;
+}
+.bottom-cloud{
+position: absolute;
+left: 180px;
+bottom: 650px;
+height: 70px;
+width: 140px;
+}
+hr
+{
+   background-color:#e4f9f5;
+   border-style: dotted none none none;
+   border-color: #11999e;
+   border-width: 5px;
+   width: 150px;
+   }
